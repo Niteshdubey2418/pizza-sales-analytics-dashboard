@@ -14,7 +14,8 @@ Excel
 DATA CLEANING(POWER QUERY)
 Removed null values
 Standardized date formats
-Created new calculated columns (Hour, Day, Month)
+Created new calculated columns (Hour, Weekdays,Rush Slot)
+Created Calculated Measures (Total Orders, Total Revenue, Total Quantity) 
 Filtered inconsistent records
 
 
